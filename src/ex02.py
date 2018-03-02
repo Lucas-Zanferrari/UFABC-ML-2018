@@ -1,7 +1,7 @@
 import pandas as pd
 
-path = r"data\Iris_Data.csv"
-data_frame = pd.read_csv(path)
+data_path = r"..\data\Iris_Data.csv"
+data_frame = pd.read_csv(data_path)
 
 ############################################################################
 
